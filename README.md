@@ -35,7 +35,7 @@ touchme -v -r ~/Photos/
 | `YYYY.MM.DD` | `notes_2023.12.25.txt` |
 | `YYYY_MM_DD` | `backup_2024_01_10.tar.gz` |
 
-Any single-character separator between year, month, and day is accepted.
+**Note**: Any single-character separator between year, month, and day is accepted.
 
 ## Options
 
